@@ -5,10 +5,10 @@ import {
   Typography,
   TextField,
   Button,
-  Grid,
   Alert,
   Box,
 } from '@mui/material';
+import Grid from '@mui/material/GridLegacy';
 import SaveIcon from '@mui/icons-material/Save';
 import { useHealthStore } from '../../stores/healthStore';
 import { validateHealthRecord } from '../../utils/validation';

@@ -16,9 +16,9 @@ import {
   DialogActions,
   Button,
   TextField,
-  Grid,
   Alert,
 } from '@mui/material';
+import Grid from '@mui/material/GridLegacy';
 import EditIcon from '@mui/icons-material/Edit';
 import DeleteIcon from '@mui/icons-material/Delete';
 import { HealthRecord } from '../../types';

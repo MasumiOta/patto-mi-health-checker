@@ -5,13 +5,13 @@ import {
   Typography,
   TextField,
   Button,
-  Grid,
   Alert,
   FormControl,
   InputLabel,
   Select,
   MenuItem,
 } from '@mui/material';
+import Grid from '@mui/material/GridLegacy';
 import SaveIcon from '@mui/icons-material/Save';
 import { useHealthStore } from '../../stores/healthStore';
 import { validateHeight } from '../../utils/validation';

@@ -1,4 +1,5 @@
-import { Card, CardContent, Typography, Grid, Box, Chip } from '@mui/material';
+import { Card, CardContent, Typography, Box, Chip } from '@mui/material';
+import Grid from '@mui/material/GridLegacy';
 import TrendingUpIcon from '@mui/icons-material/TrendingUp';
 import TrendingDownIcon from '@mui/icons-material/TrendingDown';
 import TrendingFlatIcon from '@mui/icons-material/TrendingFlat';

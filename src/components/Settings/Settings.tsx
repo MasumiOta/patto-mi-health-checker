@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Typography, Box, Button, Grid } from '@mui/material';
+import { Typography, Box, Button } from '@mui/material';
 import InfoIcon from '@mui/icons-material/Info';
 import UserSettingsForm from './UserSettingsForm';
 import DataManagement from './DataManagement';

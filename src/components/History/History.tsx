@@ -8,7 +8,6 @@ import {
   InputLabel,
   Select,
   MenuItem,
-  Grid,
 } from '@mui/material';
 import { useHealthStore } from '../../stores/healthStore';
 import { PeriodOption } from '../../types';

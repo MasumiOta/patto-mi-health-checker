@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
-import { Typography, Box, Grid } from '@mui/material';
+import { Typography, Box } from '@mui/material';
+import Grid from '@mui/material/GridLegacy';
 import { useHealthStore } from '../../stores/healthStore';
 import {
   evaluateWeight,
