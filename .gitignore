@@ -1,0 +1,41 @@
+# Environment variables
+.env
+.env.local
+.env.production
+.env.staging
+
+# Dependencies
+node_modules/
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Build outputs
+build/
+dist/
+.next/
+.nuxt/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
+
+# React/Vite specific
+.cache/
+coverage/
+*.tsbuildinfo
+
+# AppGenius temporary files
+.appgenius_temp/
